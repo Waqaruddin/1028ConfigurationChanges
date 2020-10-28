@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1028ConfigurationChanges</string>
+
+    <string name="my_name"> Welcome to Android</string>
+
+    <string name="my_second_language" translatable="false"> مرحبا بالعالم</string>
+
+
+
+</resources>

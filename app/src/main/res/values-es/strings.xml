@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1028ConfigurationChanges</string>
+    <string name="my_name" translatable="false">Hola Mundo</string>
+</resources>
